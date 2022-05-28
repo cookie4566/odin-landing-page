@@ -1,0 +1,18 @@
+.header{
+background-color: #1F2937;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-content: center;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+p{
+color: #E5E7EB;
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+}

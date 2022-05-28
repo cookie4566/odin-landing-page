@@ -1,2 +1,2 @@
 # odin-landing-page
-A landing page made from free stock images.
+A landing page made from a guide that uses free stock images.
